@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Blue Cube</string>
+    <!-- about activity -->
+    <string name="a1">Blue</string>
+    <string name="a2">Blue Cube</string>
+    <string name="a3">Developed By</string>
+    <string name="developer">Somveer Saini</string>
+    <string name="blue">coz everyone follow their first love of life.\nshort and simple</string>
+    <string name="bluepuzzle">A simple Cube puzzle \nSource\n github.com/somveersaini/BlueCube
+    </string>
+    <string name="email">somveersaini@yahoo.com\ngithub.com/somveersaini</string>
+
+    <!-- howtoplay activity -->
+    <string name="how">This is a Cube Puzzle. In which you have to solve the cube so that each face has blue color.
+        \n
+        As a precondition, you will get a puzzle board having 6 random blue squares.\n
+        \nIf you roll the cube on to a blue square, the blue square is picked up on one face of the cube and
+        if you roll a blue face of the cube on to a non-blue square, the blueness is put down again.
+        \n\n
+
+        Enjoy!!!!
+    </string>
+    <string name="title_activity_how_to_play">HowToPlay</string>
+    <string name="notes">\nNotes
+        \n* Slide to move the Cube.
+        \n#Restart the app to troubleshoot any prob.
+
+    </string>
+    <string name="start">\nThankYou\nfor Downloading\nBlue Cube\n\n"</string>
+    <string name="htht">Please go through \" How to Play \"</string>
+    <string name="underline">\nWrite your own story,\nelse you will be a part of other\'s story.</string>
+    <string name="copyright">&#169; Bluedroid</string>
+</resources>

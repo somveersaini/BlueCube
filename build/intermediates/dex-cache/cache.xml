@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\backkupedrive\lesa\xabber\BlueCube\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\backkupedrive\lesa\xabber\BlueCube\app\build\intermediates\pre-dexed\release\classes-898aec11cdb8c0840fcca0bc1bc672b6f30c01a5.jar" />
+    </item>
+    <item
+        jar="D:\backkupedrive\lesa\xabber\BlueCube\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\backkupedrive\lesa\xabber\BlueCube\app\build\intermediates\pre-dexed\release\internal_impl-23.0.1-93b2a4a96bb740831cc1ce97057f6814c0852a7e.jar" />
+    </item>
+    <item
+        jar="D:\backkupedrive\lesa\xabber\BlueCube\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\backkupedrive\lesa\xabber\BlueCube\app\build\intermediates\pre-dexed\release\classes-e7ac0240db55bf91343ba55a82e26fa80285e83f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Samsaini\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\backkupedrive\lesa\xabber\BlueCube\app\build\intermediates\pre-dexed\release\support-annotations-23.0.1-ecf57956622c6f54ceec3ed1b0313f22294e5801.jar" />
+    </item>
+
+</items>
